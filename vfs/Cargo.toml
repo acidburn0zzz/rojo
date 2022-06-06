@@ -11,4 +11,4 @@ homepage = "https://github.com/rojo-rbx/rojo"
 
 [dependencies]
 notify = "4.0.15"
-crossbeam-channel = "0.4.0"
+crossbeam-channel = "0.4.4"

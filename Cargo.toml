@@ -55,7 +55,7 @@ name = "build"
 harness = false
 
 [dependencies]
-crossbeam-channel = "0.4.0"
+crossbeam-channel = "0.4.4"
 csv = "1.1.1"
 env_logger = "0.7.1"
 futures = "0.1.29"
